@@ -3,7 +3,7 @@ from scipy import optimize
 import matplotlib.pyplot as plt
 
 
-# Define univariate Function
+# Define Univariate Function
 def poly(x):
     return x * (x - 1) * (x + 1) * (x - 4)
 
